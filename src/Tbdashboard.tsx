@@ -238,7 +238,7 @@ const TechForge: React.FC = () => {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-800 text-white text-center py-8 w-full">
+      <footer className="bg-gray-700 text-white text-center py-8 w-full">
         <p>&copy; 2025 TechForge Solutions. All rights reserved.</p>
       </footer>
     </div>
